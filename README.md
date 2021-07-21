@@ -1,5 +1,5 @@
 # CoLoss-GAN
 
-This repository contains the codes for our paper that will be submitted to IROS2021
+This repository contains the codes for our CoLoss paper that will be submitted soon and relesead if accepted.
 
 Code will be avaible soon.
