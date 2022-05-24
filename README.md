@@ -1,5 +1,3 @@
 # CoLoss-GAN
 
-This repository contains the codes for our CoLoss paper that will be submitted soon and relesead if accepted.
-
-Code will be avaible soon.
+Please visit the following rep. for the code: https://github.com/Mirorrn/SIM2GOAL
